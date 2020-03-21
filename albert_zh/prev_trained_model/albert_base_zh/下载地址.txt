@@ -1,0 +1,13 @@
+官方项目地址：https://github.com/google-research/albert
+# albert_base_zh_google
+https://storage.googleapis.com/albert_models/albert_base_zh.tar.gz
+# albert_large_zh_google
+https://storage.googleapis.com/albert_models/albert_large_zh.tar.gz
+
+
+# albert_large_zh
+https://storage.googleapis.com/albert_zh/albert_large_zh.zip
+# albert_base_zh
+https://storage.googleapis.com/albert_zh/albert_base_zh.zip
+# albert_tiny_zh
+https://storage.googleapis.com/albert_zh/albert_tiny_489k.zip
